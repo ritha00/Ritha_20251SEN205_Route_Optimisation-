@@ -134,8 +134,6 @@ The proposed Oracle database will contain the following main tables:
 - **DELAY_REPORTS:** (delay_id, route_id, stop_id, delay_duration, delay_cause, report_date)
 - **ROUTE_RECOMMENDATIONS:** (recommendation_id, origin_area_id, destination_area_id, route_id, estimated_duration, transfer_count, recommendation_date)
 
-Primary keys and foreign keys will be established to maintain referential integrity and ensure proper relationships between the database tables.
-
 ---
 
 ## 5. PLANNED PL/SQL FEATURES
