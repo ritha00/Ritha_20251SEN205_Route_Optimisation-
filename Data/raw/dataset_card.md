@@ -104,10 +104,3 @@ All checks were run on the untouched raw files with `quality_check_lite.py` on 2
 - The licence is not stated on the download page, so the data is used here for coursework only and attributed to Digital Transport for Africa.
 - `shapes.txt` holds about 96% of all rows; most of the relational design concerns the other ten files.
 
-## 7. Reproducing
-
-```
-data/raw/Kigali_GTFS.zip      original download, never edited
-data/raw/*.txt                extracted files, never edited
-python quality_check_lite.py data/raw > docs/quality_report.txt
-```
