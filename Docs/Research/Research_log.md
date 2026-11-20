@@ -21,63 +21,63 @@
 
 
 
-\## 4. Data Source and Collection Plan
+## 4. Data Source and Collection Plan
 
 
 
-\*\*Dataset name:\*\* Kigali Public Transport Passenger Survey
+*Dataset name:* Kigali Public Transport Passenger Survey
 
 
 
-\*\*Data source:\*\* Primary data collected by the project team through an anonymous passenger questionnaire.
+*Data source:* Primary data collected by the project team through an anonymous passenger questionnaire.
 
 
 
-\*\*Purpose:\*\* To understand public transport users' travel patterns, waiting times, journey durations, bus transfers, reported delays and route convenience in Kigali.
+*Purpose:* To understand public transport users' travel patterns, waiting times, journey durations, bus transfers, reported delays and route convenience in Kigali.
 
 
 
-\*\*Collection method:\*\* An online or paper-based survey targeting at least 300 valid responses from public transport users in Kigali.
+*Collection method:* An online or paper-based survey targeting at least 300 valid responses from public transport users in Kigali.
 
 
 
-\*\*Data to be collected:\*\*
+*Data to be collected:*
 
-\- General journey origin and destination areas.
+- General journey origin and destination areas.
 
-\- Usual travel period.
+- Usual travel period.
 
-\- Average waiting time.
+- Average waiting time.
 
-\- Average journey duration.
+- Average journey duration.
 
-\- Number of buses used.
+- Number of buses used.
 
-\- Frequency of transport delays.
+- Frequency of transport delays.
 
-\- Main reported causes of delays.
+- Main reported causes of delays.
 
-\- Convenience of existing bus routes.
+- Convenience of existing bus routes.
 
-\- Interest in using a route recommendation system.
-
-
-
-\*\*Privacy:\*\* No names, telephone numbers, national identification numbers or exact home addresses will be collected. Each response will receive an anonymous identification number.
+- Interest in using a route recommendation system.
 
 
 
-\*\*Licence and permission:\*\* The survey data will be collected for educational purposes, subject to school approval and voluntary participant consent.
+*Privacy:* No names, telephone numbers, national identification numbers or exact home addresses will be collected. Each response will receive an anonymous identification number.
 
 
 
-\*\*Dataset size:\*\* The target is at least 300 valid completed responses.
+*Licence and permission:* The survey data will be collected for educational purposes, subject to school approval and voluntary participant consent.
 
 
 
-\*\*Dataset status:\*\* Planned; data collection has not yet started.
+*Dataset size:* The target is at least 300 valid completed responses.
 
 
 
-\*\*Limitations:\*\* Survey responses represent passengers' experiences and do not provide live traffic information or verified GPS locations. Additional approved transport data may be needed for route optimization.
+*Dataset status:* Planned; data collection has not yet started.
+
+
+
+*Limitations:* Survey responses represent passengers' experiences and do not provide live traffic information or verified GPS locations. Additional approved transport data may be needed for route optimization.
 
